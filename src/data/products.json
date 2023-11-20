@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Krishna T Shirt",
+    "description": "Embrace the spiritual aura with our Divine Krishna Bliss T-Shirt. ",
+    "price": 400,
+    "discount": 10,
+    "rating": 4.5,
+    "imagePath": "https://m.media-amazon.com/images/I/71-mN+-rjwL._AC_UY1100_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Kaale je hi Vaaste",
+    "description": "Kaale je hi Vaaste is a versatile and stylish option for any occasion. ",
+    "price": 300,
+    "discount": 20,
+    "rating": 3.8,
+    "imagePath": "https://www.creativeideas.store/media/catalog/product/cache/f7fe0c39a88bd276837542f863d0cbe2/o/v/oversize-tshirt-back_2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "RRR shirt",
+    "description": "The eye-catching details and premium quality make it a standout choice.",
+    "price": 350,
+    "discount": 15,
+    "rating": 4.2,
+    "imagePath": "https://fullyfilmy.in/cdn/shop/products/New-Mockups---no-hanger---TShirt-Yellow.jpg?v=1639657077"
+  }
+]

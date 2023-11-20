@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Krishna T Shirt",
+    "description": "Embrace the spiritual aura with our Divine Krishna Bliss T-Shirt. This exquisite garment is a harmonious blend of style and devotion, designed to elevate your fashion sense while celebrating the divine presence of Lord Krishna. Made from high-quality fabric, it ensures comfort and durability. The intricate design captures the essence of Krishna's teachings.",
+    "price": 400,
+    "discount": 10,
+    "rating": 4.5,
+    "imagePath": "https://m.media-amazon.com/images/I/71-mN+-rjwL._AC_UY1100_.jpg",
+    "category": "Men",
+    "reviews": [
+      {
+        "id": 101,
+        "user": "John Doe",
+        "title": "Impressed!",
+        "comment": "I was thoroughly impressed with the quality and design of this T-shirt. The spiritual aura it exudes is truly captivating. The fabric is comfortable, and the intricate details reflect the teachings of Lord Krishna. A great product indeed!",
+        "rating": 5
+      },
+      {
+        "id": 102,
+        "user": "Jane Smith",
+        "title": "Not Bad",
+        "comment": "While the T-shirt is not bad, I expected a bit more in terms of design and comfort. The fabric is decent, but it could be better. Overall, a satisfactory product, but room for improvement.",
+        "rating": 3
+      },
+      {
+        "id": 103,
+        "user": "Mark Johnson",
+        "title": "Amazing Quality!",
+        "comment": "I recently purchased this Krishna T-shirt, and I must say the quality is amazing. The fabric feels premium, and the design is unique. It's a perfect blend of style and comfort.",
+        "rating": 5
+      },
+      {
+        "id": 104,
+        "user": "Emily Davis",
+        "title": "Great Fit!",
+        "comment": "The fit of this Krishna T-shirt is fantastic! It's not too tight or too loose. The material is breathable, and I love the spiritual design. Definitely, recommend it.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Kaale je hi Vaaste",
+    "description": "Kaale je hi Vaaste is a versatile and stylish option for any occasion. Crafted with precision, it offers a perfect balance of comfort and fashion. The unique design and quality materials make it a must-have in your wardrobe. Express yourself with Kaale je hi Vaaste!",
+    "price": 300,
+    "discount": 20,
+    "rating": 3.8,
+    "imagePath": "https://www.creativeideas.store/media/catalog/product/cache/f7fe0c39a88bd276837542f863d0cbe2/o/v/oversize-tshirt-back_2.jpg",
+    "category": "Women",
+    "reviews": [
+      {
+        "id": 201,
+        "user": "Sophia Brown",
+        "title": "Stylish and Comfortable!",
+        "comment": "Kaale je hi Vaaste exceeded my expectations. It's not only stylish but also very comfortable. The attention to detail in the design is impressive.",
+        "rating": 4
+      },
+      {
+        "id": 202,
+        "user": "Michael White",
+        "title": "Unique Design",
+        "comment": "I love the unique design of Kaale je hi Vaaste. It stands out, and the quality is great. The fit is perfect, and I've received compliments on it!",
+        "rating": 4.5
+      },
+      {
+        "id": 203,
+        "user": "Olivia Rodriguez",
+        "title": "Good Purchase",
+        "comment": "Kaale je hi Vaaste is a good purchase. The material feels durable, and I like the versatility it offers. It's suitable for various occasions.",
+        "rating": 3.5
+      },
+      {
+        "id": 204,
+        "user": "Liam Wilson",
+        "title": "Comfortable Fit",
+        "comment": "The fit of Kaale je hi Vaaste is comfortable, and it's become one of my favorite wardrobe choices. The quality is commendable.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "RRR shirt",
+    "description": "Elevate your style with RRR shirt. This trendy and chic item is carefully designed to meet the fashion needs of today's dynamic individuals. The eye-catching details and premium quality make it a standout choice. Make a statement with RRR shirt!",
+    "price": 350,
+    "discount": 15,
+    "rating": 4.2,
+    "imagePath": "https://fullyfilmy.in/cdn/shop/products/New-Mockups---no-hanger---TShirt-Yellow.jpg?v=1639657077",
+    "category": "Men",
+    "reviews": [
+      {
+        "id": 301,
+        "user": "Emma Turner",
+        "title": "Trendy and Chic!",
+        "comment": "RRR shirt is trendy and chic, just as described. The eye-catching details make it a perfect choice for fashion enthusiasts. I love the premium quality.",
+        "rating": 4.5
+      },
+      {
+        "id": 302,
+        "user": "William Moore",
+        "title": "Highly Recommended",
+        "comment": "Highly recommend RRR shirt! It's a standout choice for those who want to make a fashion statement. The quality is excellent.",
+        "rating": 5
+      },
+      {
+        "id": 303,
+        "user": "Ava Robinson",
+        "title": "Impressive Design",
+        "comment": "The design of RRR shirt is impressive. It's a versatile item that can be dressed up or down. I'm happy with my purchase.",
+        "rating": 4
+      },
+      {
+        "id": 304,
+        "user": "Jackson Hall",
+        "title": "Great Addition to the Wardrobe",
+        "comment": "RRR shirt has become a great addition to my wardrobe. The quality and design have exceeded my expectations. Thumbs up!",
+        "rating": 4.8
+      }
+    ]
+  }
+]
